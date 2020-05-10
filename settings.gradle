@@ -1,0 +1,3 @@
+rootProject.name='KotlinExtendedExtensions'
+include ':app'
+include ':kotlinextendedextensions'
